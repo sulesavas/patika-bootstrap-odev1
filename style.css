@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: unset !important;
+}
+
+#products-body {
+  background-color: rgb(235, 221, 198);
+}
+
+#index-body {
+  background-image: url("https://aurrari.com/wp-content/uploads/2021/04/9Damla-Ku%CC%88pe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+#body-aboutUs {
+  background-color: rgb(235, 221, 198);
+}
